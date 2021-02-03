@@ -1,7 +1,7 @@
 # nionswift-spinnaker-cam
 An example repo demonstrating how to implement a Flir cam in Nionswift.
 
-BOILERPLATE code guide:
+## Guide:
 
 The most vital line is line:306 in CameraDeviceSpinnaker.py
 
